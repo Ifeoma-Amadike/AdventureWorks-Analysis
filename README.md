@@ -34,6 +34,10 @@ I got this dataset from Adventure WOrks Dataset Link __
 ## SKILLS DEMONSTRATED
 I used SQL to query my database.
 
+### DATA MODEL 
+
+![](images/Data_Model.png)
+
 ---
 ## ANALYSIS & VISUALIZATIONS
 
